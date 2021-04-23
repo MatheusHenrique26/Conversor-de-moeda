@@ -1,0 +1,46 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://3.bp.blogspot.com/-HC2-F5GgVMI/VkZHlxuCp0I/AAAAAAAAEDI/oQx6N1Z3wJU/s1600/londres-hoteis-baratos.jpg');
+  background-color: #000000;
+  background-size: 100%;
+  background-position: center ;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+  
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 50%;
+  margin: 8rem 0rem; 
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+input{
+  width: 30%;
+  height: 10%;
+  border-radius: 5px;
+}
+h3{
+  color: white;
+}
